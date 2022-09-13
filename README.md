@@ -3,7 +3,7 @@
 
 ![1](https://user-images.githubusercontent.com/80885540/190019347-66664ff7-f8b2-4d69-a0fc-ec37534d9dee.PNG)
 
-# Description
+# 📃Description
 - 맨 위 상단의 input을 통해 리스트 추가 가능
 <br/>
 
