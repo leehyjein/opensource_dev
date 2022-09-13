@@ -4,8 +4,9 @@
 ![1](https://user-images.githubusercontent.com/80885540/190019347-66664ff7-f8b2-4d69-a0fc-ec37534d9dee.PNG)
 
 # 🛠Stack 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/styled-components-CC6699?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
+<br/>
 
 # 📃Description
 - 맨 위 상단의 input을 통해 리스트 추가 가능
