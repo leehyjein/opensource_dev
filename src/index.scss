@@ -1,0 +1,129 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-weight: 500;
+}
+
+.body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Wrapper {
+  width: 100%;
+  max-width: 500px;
+  min-height: 400px;
+  margin: 50px auto;
+  padding: 50px;
+  box-shadow: 0 2px 6px rgb(156, 156, 156);
+  h1 {
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 900;
+  }
+  form {
+    width: 100%;
+    height: 40px;
+    margin: 20px 0;
+    display: flex;
+    input,
+    button {
+      flex: 3;
+      margin: 0 5px;
+      border: none;
+      border-bottom: 1px solid rgb(156, 156, 156);
+    }
+    .addButton {
+      flex: 2;
+      border: none;
+      background-color: #5cb8e4;
+      color: white;
+      letter-spacing: 2px;
+      cursor: pointer;
+    }
+  }
+  ul li {
+    list-style: none;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .active {
+      opacity: 0.5;
+      text-decoration: line-through;
+    }
+    input,
+    .row input {
+      margin-left: 5px;
+      transform: translateY(1px);
+    }
+    button,
+    .row button {
+      padding: 5px 10px;
+      margin-left: 5px;
+      border: none;
+      background-color: #b7c4cf;
+      color: white;
+      cursor: pointer;
+    }
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+  }
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  // .button #delete {
+  //   background-color: red;
+  // }
+  label {
+    cursor: pointer;
+  }
+}
+
+// form {
+//   width: 100%;
+//   height: 40px;
+//   margin: 20px 0;
+//   display: flex;
+// }
+// form input,
+// form button {
+//   flex: 3;
+//   margin: 0 5px;
+//   border: none;
+//   border-bottom: 1px solid rgb(156, 156, 156);
+// }
+// form button {
+//   flex: 2;
+//   border: none;
+//   background-color: #5cb8e4;
+//   color: white;
+//   letter-spacing: 2px;
+//   cursor: pointer;
+// }
+// .ul li {
+//   list-style: none;
+//   border: 1px solid #ccc;
+//   margin: 10px 0;
+//   padding: 10px;
+//   display: flex;
+
+//   align-items: center;
+// }
