@@ -5,6 +5,16 @@
 
 # Description
 - 맨 위 상단의 input을 통해 리스트 추가 가능
+![마트](https://user-images.githubusercontent.com/80885540/190020312-7a4bbf2a-8086-4c04-8c3f-7036c4cdb4d7.PNG)
+
+
 - list의 Edit을 통해서 내용 수정 가능
+![2 edit](https://user-images.githubusercontent.com/80885540/190020334-242645b6-ce4b-452e-a5c7-09cb6876a90a.PNG)
+
+
 - list의 체크박스를 클릭하여 개별, 복수의 list 삭제 가능 
+![check multi](https://user-images.githubusercontent.com/80885540/190020366-e89adc51-270e-44e6-bf43-6ef1341c3ea5.PNG)
+
+
 - ALL을 선택하면 전체 체크 박스 선택 가능
+![ALL](https://user-images.githubusercontent.com/80885540/190020405-d03f9fbf-ad43-4a27-a715-df81dfa0981a.PNG)
